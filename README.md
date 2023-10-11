@@ -5,6 +5,8 @@ Guide of what this program does here: https://docs.google.com/document/d/1BRiScb
 
 Currently Unreleased and in Progress
 
+Huge thanks to PistonMiner for documentation and tools on TTYD's animation formats https://github.com/PistonMiner/ttyd-tools
+
 ============USAGE============
 
 1: Download the Latest Release
