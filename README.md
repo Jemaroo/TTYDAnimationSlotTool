@@ -1,5 +1,5 @@
 # TTYDAnimationSlotTool
-A tool to modify the amount of animation slots a file has
+A tool to modify the amount of animation slots an animation file has
 
 Guide of what this program does here: https://docs.google.com/document/d/1BRiScbbM9np7sagZ_d6i2SaeX4_-Mk6mgYj_Nv8o3is/edit
 
