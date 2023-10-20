@@ -17,7 +17,7 @@ Huge thanks to PistonMiner for documentation and tools on TTYD's animation forma
 
 4: Paste ONLY a SINGLE character animation file in the input folder.
 
-5: Open Run.bat in a text editor and change the file name to match whatever one is in the input folder (ie a_mario) number to however many animation slots you want it to change to (ie 10).
+5: Open Run.bat in a text editor and change the file name to match whatever one is in the input folder (ie a_mario) and the number to however many animation slots you want it to change to (ie 10).
 
 6: Run Run.bat
 
