@@ -9,6 +9,8 @@ Huge thanks to PistonMiner for documentation and tools on TTYD's animation forma
 
 ============USAGE============
 
+Requirements: An updated version of Java and a text editor such as Notepad++
+
 1: Download the Latest Release
 
 2: Should Contain: Run.bat and TTYDAnimationSlotTool.jar.
@@ -17,7 +19,7 @@ Huge thanks to PistonMiner for documentation and tools on TTYD's animation forma
 
 4: Paste ONLY a SINGLE character animation file in the input folder.
 
-5: Open Run.bat in a text editor and change the file name to match whatever one is in the input folder (ie a_mario) and the number to however many animation slots you want it to change to (ie 10).
+5: Edit Run.bat in a text editor and change the file name to match whatever one is in the input folder (ie a_mario) and the number to however many animation slots you want it to change to (ie 10).
 
 6: Run Run.bat
 
