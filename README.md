@@ -62,6 +62,7 @@ Requirements: An updated version of Java and a text editor such as Notepad++
   - OUTPUT FILE DESTINATION (ie output)
 
 It should look something like: input\\a_mario Groups+ 3 output
+
 Note that these are case-sensitive.
 
 6: Run Run.bat
