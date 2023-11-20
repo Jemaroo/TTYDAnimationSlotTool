@@ -1,7 +1,7 @@
 # TTYDAnimationSlotTool
-A tool to modify the amount of animation slots an animation file has
+A tool to modify the amount of various slots an animation file has
 
-Guide of what this program does here: https://docs.google.com/document/d/1BRiScbbM9np7sagZ_d6i2SaeX4_-Mk6mgYj_Nv8o3is/edit
+NOTICE (11/20/23): An expansion is planned allowing to increase and decrease the amounts of other fields such as textures or groups.
 
 UPDATED (10/20/23): Full Release Version
 
@@ -17,9 +17,72 @@ Requirements: An updated version of Java and a text editor such as Notepad++
 
 3: Create an "input" and an "output" folder in the root of the folder.
 
-4: Paste ONLY a SINGLE character animation file in the input folder.
+4: Paste the character animation file in the input folder.
 
-5: Edit Run.bat in a text editor and change the file name to match whatever one is in the input folder (ie a_mario) and the number to however many animation slots you want it to change to (ie 10).
+5: Edit Run.bat in a text editor and change the following fields:
+  - INPUT FILE DESTINATION (ie input\\a_mario)
+  - COMMAND TYPE:
+              - Shapes+
+              - Shapes-
+              - Polygons+
+              - Polygons-
+              - VertexPositions+
+              - VertexPositions-
+              - VertexPositionIndices+
+              - VertexPositionIndices-
+              - VertexNormalIndices+
+              - VertexNormalIndices-
+              - VertexColors+
+              - VertexColors-
+              - VertexColorIndices+
+              - VertexColorIndices-
+              - VertexTextureCoordinate0Indices+
+              - VertexTextureCoordinate0Indices-
+              - VertexTextureCoordinates+
+              - VertexTextureCoordinates-
+              - TextureCoordinateTransforms+
+              - TextureCoordinateTransforms-
+              - Samplers+
+              - Samplers-
+              - Textures+
+              - Textures-
+              - Subshapes+
+              - Subshapes-
+              - VisibilityGroups+
+              - VisibilityGroups-
+              - GroupTransformData+
+              - GroupTransformData-
+              - Groups+
+              - Groups-
+              - AnimationSlots+
+              - AnimationSlots-
+              - AnimationData+
+              - AnimationData-
+  - COMMAND MODIFIER (ie 5)
+  - OUTPUT FILE DESTINATION (ie output)
+It should look something like: input\\a_mario Groups+ 3 output
+Note that these are case-sensitive.
+
+6: Run Run.bat
+
+7: The new modified file should be in the output folder.
+
+=========V1.0 USAGE==========
+
+Requirements: An updated version of Java and a text editor such as Notepad++
+
+1: Download the Latest Release
+
+2: Should Contain: Run.bat and TTYDAnimationSlotTool.jar.
+
+3: Create an "input" and an "output" folder in the root of the folder.
+
+4: Paste ONLY the character animation file in the input folder.
+
+5: Edit Run.bat in a text editor and change the following fields:
+  - INPUT FILE DESTINATION (ie input\\a_mario)
+  - ANIMATION SLOT COUNT (ie 5)
+  - OUTPUT FILE DESTINATION (ie output)
 
 6: Run Run.bat
 
