@@ -86,6 +86,10 @@ Requirements: An updated version of Java and a text editor such as Notepad++
   - ANIMATION SLOT COUNT (ie 5)
   - OUTPUT FILE DESTINATION (ie output)
 
+It should look something like: input\\a_mario 20 output
+
+Note that these are case-sensitive.
+
 6: Run Run.bat
 
 7: The new modified file should be in the output folder.
