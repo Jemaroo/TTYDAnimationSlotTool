@@ -57,7 +57,6 @@ Requirements: An updated version of Java and a text editor such as Notepad++
     - AnimationSlots+
     - AnimationSlots-
     - AnimationData+
-    - AnimationData-
   - COMMAND MODIFIER (ie 5)
   - OUTPUT FILE DESTINATION (ie output)
 
