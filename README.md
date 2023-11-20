@@ -22,12 +22,12 @@ Requirements: An updated version of Java and a text editor such as Notepad++
 5: Edit Run.bat in a text editor and change the following fields:
   - INPUT FILE DESTINATION (ie input\\a_mario)
   - COMMAND TYPE:
-              - Shapes+
-              - Shapes-
-              - Polygons+
-              - Polygons-
-              - VertexPositions+
-              - VertexPositions-
+  - Shapes+
+    - Shapes-
+      - Polygons+
+        - Polygons-
+          - VertexPositions+
+            - VertexPositions-
               - VertexPositionIndices+
               - VertexPositionIndices-
               - VertexNormalIndices+
