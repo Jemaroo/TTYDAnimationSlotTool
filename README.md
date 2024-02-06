@@ -9,7 +9,9 @@ Huge thanks to PistonMiner for documentation and tools on TTYD's animation forma
 
 ============USAGE============
 
-Requirements: An updated version of Java and a text editor such as Notepad++
+Requirements: An updated version of Java with Developer Features
+https://www.oracle.com/database/sqldeveloper/technologies/download/ 
+and a text editor such as Notepad++
 
 1: Download the Latest Release
 
@@ -74,9 +76,11 @@ Note that these are case-sensitive.
 
 =========V1.0 USAGE==========
 
-Requirements: An updated version of Java and a text editor such as Notepad++
+Requirements: An updated version of Java with Developer Features
+https://www.oracle.com/database/sqldeveloper/technologies/download/ 
+and a text editor such as Notepad++
 
-1: Download the Latest Release
+1: Download the V1.0
 
 2: Should Contain: Run.bat and TTYDAnimationSlotTool.jar.
 
