@@ -1,9 +1,11 @@
 # TTYDAnimationSlotTool
 A tool to modify the amount of various slots an animation file has
 
-NOTICE (11/20/23): An expansion is planned allowing to increase and decrease the amounts of other fields such as textures or groups.
+UPDATED v1.1 (3/6/24): Fixed a bug where the animation data location wouldn't read correctly.
 
-UPDATED (10/20/23): Full Release Version
+NOTICE (11/20/23): An expansion is being worked on for the tool, including an interface and editable fields. Release TBD.
+
+UPDATED v1.0 (10/20/23): Full Release Version
 
 Huge thanks to PistonMiner for documentation and tools on TTYD's animation formats https://github.com/PistonMiner/ttyd-tools
 
@@ -11,13 +13,13 @@ Huge thanks to PistonMiner for documentation and tools on TTYD's animation forma
 
 TBD - In Progress
 
-=========V1.0 USAGE==========
+=========V1.1 USAGE==========
 
 Requirements: An updated version of Java with Developer Features
 https://www.oracle.com/database/sqldeveloper/technologies/download/ 
 and a text editor such as Notepad++
 
-1: Download the V1.0
+1: Download the V1.1
 
 2: Should Contain: Run.bat and TTYDAnimationSlotTool.jar.
 
