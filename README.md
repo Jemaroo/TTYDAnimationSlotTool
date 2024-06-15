@@ -16,7 +16,7 @@ TBD - In Progress
 =========v1.1 USAGE==========
 
 Requirements: An updated version of Java with Developer Features
-https://www.oracle.com/database/sqldeveloper/technologies/download/ 
+https://www.oracle.com/java/technologies/downloads/
 and a text editor such as Notepad++
 
 1: Download the v1.1
