@@ -7,7 +7,7 @@ NOTICE (11/20/23): An expansion is being worked on for the tool, including an in
 
 UPDATED v1.0 (10/20/23): Full Release Version
 
-Huge thanks to PistonMiner for documentation and tools on TTYD's animation formats https://github.com/PistonMiner/ttyd-tools
+Huge thanks to PistonMiner for [documentation and tools](https://github.com/PistonMiner/ttyd-tools) on TTYD's animation formats 
 
 ========LATEST USAGE=========
 
